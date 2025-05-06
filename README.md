@@ -1,7 +1,7 @@
 ●タイトル：渋沢栄一のトリビュートページ
 
-●URL：https://hidetoterasawa.github.io/20250209-Eiichi-Shibusawa-Tribute-Page/
+●URL：https://hidetoterasawa.github.io/Eiichi-Shibusawa-Tribute-Page/
 
-●概要：学習用として作成。
+●概要：HTML・CSSの学習用として作成。
 渋沢栄一のトリビュートページです。
 渋沢栄一は「日本資本主義の父」とも称される実業家で、日本初の銀行を設立したほか、約500もの企業や団体の創設に関わり、日本の経済発展の基盤を築いた人物です。彼の生涯や業績について簡単にまとめました。
